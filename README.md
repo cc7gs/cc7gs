@@ -4,7 +4,6 @@ I'm WuChenchen(chen)
 
 - 🔭 Frontend Developer at intsig
 - 🌱 \[ React, TypeScript, GraphQL \] Lover
-- 👯 I’m looking to collaborate on ...
 - 📍 上海
 - 📫 chenorange12@gmail.com
 

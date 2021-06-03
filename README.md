@@ -6,7 +6,7 @@ I'm WuChenchen(chen)
 - 🌱 \[ React, TypeScript, GraphQL \] Lover
 - 👯 I’m looking to collaborate on ...
 - 📍 上海
-- 📫 chenhcnewu@gmail.com
+- 📫 chenorange12@gmail.com
 
 <!-- More details on [wuchenchen.me](https://wuchenchen.com/). -->
 

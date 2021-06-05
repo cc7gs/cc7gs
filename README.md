@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm WuChenchen(chen)
+I'm WuChenchen(吴晨晨,花名晨风)
 
 - 🔭 Frontend Developer at intsig
 - 🌱 \[ React, TypeScript, GraphQL \] Lover

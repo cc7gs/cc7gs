@@ -7,7 +7,7 @@ I'm WuChenchen(吴晨晨,花名晨风)
 - 📍 上海
 - 📫 chenorange12@gmail.com
 
-<!-- More details on [wuchenchen.me](https://wuchenchen.com/). -->
+More details on [wccmw.xyz](https://wccmw.xyz/).
 
 **Languages and Tools:**  
 

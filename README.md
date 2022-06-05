@@ -2,9 +2,9 @@
 
 I'm WuChenchen(吴晨晨,花名晨风)
 
-- 🔭 Frontend Developer at intsig
+- 🔭 Frontend Developer at Ant Group
 - 🌱 \[ React, TypeScript, GraphQL \] Lover
-- 📍 上海
+- 📍 杭州
 - 📫 chenorange12@gmail.com
 
 More details on [wccmw.xyz](https://wccmw.xyz/).
